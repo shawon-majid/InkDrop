@@ -1,3 +1,7 @@
-# Projects
-Here are some projects that I've made so far:
-1. InkDrop [(Download the zip file)](https://github.com/shawon-majid/Projects/blob/main/InkDrop.zip)
+# InkDrop
+
+[(Download the zip file)](https://github.com/shawon-majid/Projects/blob/main/InkDrop.zip)
+
+This game was developed using iGraphics header file, which is a modified framework of OpenGL.
+
+It was developed for my SWE 150 Project.
